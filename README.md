@@ -12,11 +12,8 @@ A machine Learning model built using Python. The model uses the Gaussian Naives 
 ## Authors
 
 - [@Asamoah Yeboah Felix](https://www.github.com/gyatashoa)
+- [@David Adu-Poku](https://www.github.com/adupoku71)
 
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-
-## 🚀 About Me
-
-My name Asamoah Yeboah Felix, A final year Computer Science student at KNUST
